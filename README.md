@@ -64,7 +64,7 @@ MiniLstmChatModel.pth（存储模型参数文件）
 欢迎各路英雄豪杰 PR 代码 请提交到 dev 开发分支 统一测试发版
 
 # gitee 地址
-https://gitee.com/mydev_2/mini-lstm-chat-model.git
+https://gitee.com/williammy/mini-lstm-chat-model.git
 
 # License
 [MIT License](LICENSE)
